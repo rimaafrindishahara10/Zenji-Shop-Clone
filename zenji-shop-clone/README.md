@@ -3,7 +3,7 @@
 Frontend clone of zenji.shop
 
 ## Tech Stack
-- Next.js 15 (App Router)
+- Next.js 16 (App Router)
 - React
 - Tailwind CSS
 - Framer Motion (animations)
@@ -16,3 +16,4 @@ npm run dev
 \`\`\`
 
 ## Live Demo
+https://zenji-shop-clone-pro.vercel.app/
