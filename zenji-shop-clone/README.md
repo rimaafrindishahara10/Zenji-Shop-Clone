@@ -16,4 +16,4 @@ npm run dev
 \`\`\`
 
 ## Live Demo
-https://zenji-shop-clone-pro.vercel.app/
+https://zenji-shop-clone-pro.vercel.app/ 

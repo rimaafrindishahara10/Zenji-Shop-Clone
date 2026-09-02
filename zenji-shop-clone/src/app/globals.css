@@ -18,7 +18,11 @@
     --foreground: #ededed;
   }
 }
-
+@media (pointer: fine) {
+  body, a, button {
+    cursor: none;
+  }
+}
 html.lenis, html.lenis body {
   height: auto;
 }
